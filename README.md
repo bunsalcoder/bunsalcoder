@@ -4,9 +4,6 @@
 
 ***<p align="center">🚀 Always learning and building!</p>***
    
-
-<br>
-
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=bunsalcoder&include_all_commits=true&rank_icon=github&hide_title=true&" alt="bunsalcoder" />
 
 ***Software Engineer | Full-Stack Developer.***  
@@ -47,6 +44,12 @@
 
 🚀 Let's connect!
 If you're passionate about building impactful solutions, feel free to reach out! 
+
+<br>
+
+***<p align="center">💡 "Code is like humor. When you have to explain it, it’s bad." </p>*** 
+
+<br>
 
 
 
