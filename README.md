@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hey there! I'm Bunsal, Software Engineer | Full-Stack Developer
 
-<!--
-**bunsalcoder/bunsalcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am passionate about software development, continuous learning, and building innovative solutions. I thrive on exploring emerging technologies and refining my skills to drive excellence in my work.I am passionate about software development, continuous learning, and building innovative solutions. I thrive on exploring emerging technologies and refining my skills to drive excellence in my work.
 
-Here are some ideas to get you started:
+🌱 **What you'll find here:**  
+- 🚀 Personal projects & experiments  
+- 🔧 Open-source contributions  
+- 📚 Continuous learning & improvements  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 *"Code is like humor. When you have to explain it, it’s bad."*  
+
+## 📫 Get in Touch  
+- 🌐 [Portfolio](https://bunsal-portfolio.vercel.app/) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/bunsal-hul-ba1a8b297?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
+- 📧 Email: hul.bunsal@gmail.com  
+
+🚀 **Always learning and building!**  
