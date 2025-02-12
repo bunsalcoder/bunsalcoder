@@ -4,7 +4,7 @@
 
 ***<p align="center">🚀 Always learning and building!</p>***
    
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=bunsalcoder&include_all_commits=true&rank_icon=github&hide_title=true&" alt="bunsalcoder" />
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=bunsalcoder&include_all_commits=true&rank_icon=github&hide_title=true" alt="bunsalcoder" />
 
 ***Software Engineer | Full-Stack Developer.***  
 
