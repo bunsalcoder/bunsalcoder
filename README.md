@@ -1,56 +1,36 @@
-<div align="center" ><img order-radius="100px" src="https://shorturl.at/nyBq4"/></div>
+<div align="center">
 
-# 👋 I'm Bunsal
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Bunsal+%F0%9F%91%8B;Software+Engineer+%7C+Full-Stack+Developer;Always+learning+and+building)](https://github.com/bunsalcoder)
 
-***<p align="center">🚀 Always learning and building!</p>***
-   
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=bunsalcoder&include_all_commits=true&rank_icon=github&hide_title=true" alt="bunsalcoder" />
+**Software Engineer · Full-Stack Developer**
 
-***Software Engineer | Full-Stack Developer.***  
+[Telegram](https://t.me/+85581327344) · [LinkedIn](https://www.linkedin.com/in/bunsal-hul-ba1a8b297) · [Email](mailto:hul.bunsal@gmail.com) · [Support](https://pay.ababank.com/Xfv4PmyKVEf7wgnq9)
 
-- Telegram： [🐼](https://t.me/+85581327344)
+</div>
 
-- LinkedIn： [Bunsal HUL](https://www.linkedin.com/in/bunsal-hul-ba1a8b297)
+---
 
-- Gmail： [hul.bunsal@gmail.com](mailto:hul.bunsal@gmail.com)
+### About
 
-- Support： [Payment Code](https://pay.ababank.com/Xfv4PmyKVEf7wgnq9)
+I build web apps across the stack — JS/TS, Python, PHP, and Java. Into clean code, open source, and shipping things that work.
 
-------
+**Stack:** JavaScript · TypeScript · Python · PHP · Java · React · Node · DevOps
 
-**Ideal Collaborator & Professional Aspirations:**
+---
 
-- Passionate about technology, problem-solving, and innovation.  
-- Strong expertise in software development, web technologies, or cybersecurity.  
-- Proficient in modern programming languages (e.g., JavaScript, TypeScript, Python, PHP, Java).  
-- Familiar with backend and frontend frameworks, with hands-on project experience.
-- Deep understanding of security best practices, DevOps, or cloud technologies.  
+### GitHub Stats
 
-**Bonus points:**
+<div align="center">
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bunsalcoder&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&rank_icon=github" alt="bunsalcoder stats" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bunsalcoder&layout=compact&theme=transparent&hide_border=true" alt="top languages" />
+</div>
 
-- Experience contributing to open-source projects.  
-- Strong analytical and debugging skills.  
-- Published technical articles or active in tech communities.  
-- Continuous learner, adaptable, and open to challenges.  
-- Effective communicator and team player.  
+---
 
-------
+<div align="center">
 
-🌱 **What you'll find here:**  
+🌱 Personal projects · Open-source · Continuous learning
 
-- 🚀 Personal projects & experiments  
-- 🔧 Open-source contributions  
-- 📚 Continuous learning & improvements  
+*"Code is like humor. When you have to explain it, it's bad."*
 
-🚀 Let's connect!
-If you're passionate about building impactful solutions, feel free to reach out! 
-
-<br>
-
-***<p align="center">💡 "Code is like humor. When you have to explain it, it’s bad." </p>*** 
-
-<br>
-
-
-
-
+</div>
